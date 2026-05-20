@@ -1,0 +1,14 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+**/logs/
+*.log
+postgres_data/
+**/postgres_data/
+1.4/exports/*.csv
+*.crc
+_SUCCESS
+.*.spark_tmp/
+.env
+.env.*
