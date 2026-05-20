@@ -1,0 +1,4 @@
+*.DS_Store
+2/DATABASE_DUMP.sql
+2/data/
+2/prototypes/
